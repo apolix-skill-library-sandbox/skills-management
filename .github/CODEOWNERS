@@ -1,0 +1,5 @@
+# Jede Änderung braucht Freigabe von den Sales-Leads
+*           @apolix-skill-library-sandbox/sales-leads
+
+# Die Regeln selbst dürfen nur Leads und Admins ändern
+/.github/   @apolix-skill-library-sandbox/sales-leads @apolix-skill-library-sandbox/admins
