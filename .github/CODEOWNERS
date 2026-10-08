@@ -2,4 +2,4 @@
 *           @apolix-skill-library-sandbox/management-leads
 
 # Die Regeln selbst dürfen nur Leads und Admins ändern
-/.github/   @apolix-skill-library-sandbox/management-leads @apolix-skill-library-sandbox/admins
+/.github/   @apolix-skill-library-sandbox/management-leads @apolix-skill-library-sandbox/admin
